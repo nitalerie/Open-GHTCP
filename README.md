@@ -2,6 +2,8 @@
 
 **Guitar Hero Three Control Panel+** is an updated version of GHTCP originally made by [MaXKilleR](https://www.scorehero.com/forum/viewtopic.php?t=69818).
 
+The goal of this fork is to ditch MaXKilleR's custom menu and instead only use the LoadPak patch in [Guitar Hero III Deluxe](https://github.com/nsneverhax/guitar-hero-3-deluxe)
+
 This tool allows adding custom content to the PC version of Guitar Hero III and Aerosmith.
 
 ![GHTCP+](https://user-images.githubusercontent.com/12998256/104161783-b4c68700-53f3-11eb-9c4d-bffa14082133.png)
